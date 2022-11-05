@@ -1,4 +1,4 @@
 Navbar using React-bootstrap.
->> cd Navbar-Demo
+>> cd navbar_react_demo
 >> npm install
 >> npm start
