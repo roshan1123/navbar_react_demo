@@ -1,0 +1,25 @@
+[{
+		"label": "RUN001",
+		"image_cat1": "https://picsum.photos/200/300",
+		"image_cat2": "https://picsum.photos/200",
+		"value": 10
+	},
+	{
+		"label": "RUN002",
+		"image_cat1": "https://picsum.photos/id/237/200/300",
+		"image_cat2": "https://picsum.photos/id/1/200/300",
+		"value": 20
+	},
+	{
+		"label": "RUN003",
+		"image_cat1": "https://picsum.photos/id/100/200/300",
+		"image_cat2": "https://picsum.photos/id/101/200/300",
+		"value": 30
+	},
+	{
+		"label": "RUN004",
+		"image_cat1": "https://picsum.photos/id/200/200/300",
+		"image_cat2": "https://picsum.photos/id/201/200/300",
+		"value": 400
+	}
+]
